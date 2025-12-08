@@ -1,0 +1,120 @@
+
+"AI ML & DS Workshop"
+2081-11-11
+WORKSHOP BY Dr. Tej Bahdadur Shahi
+
+
+
+(/*Ai For Agriculture*/)
+
+Python For Colab:
+Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. Colab is especially well suited to machine learning, data science, and education.
+
+
+Fundamentals oF AI ML:
+
+
+Training Phase
+test phase
+Deploymnt Phase 
+
+
+
+How ML Algorithm Works?
+NLP= Generative AI like CHatgpt
+How Machines Learn from the data?
+data always may not be clean
+Data Sample should Represent all the Logics
+
+Good data = accuracy
+
+
+AI RObotics
+ML= Algorithm try to learn pattern, Deep Learning= Neural Network, 
+
+Data Science, Data mining
+ABout Extracting and work with data to take out insight.
+EDA , Statistics
+
+Program:
+Data; program; output
+
+ML:
+Data ;Output ;program
+
+Ethical AI
+
+Rule Based 
+ for Very less data
+
+Prediction: 
+
+ML:
+Learn a Function from data Using ML Algorithm 
+
+Training Data; ML Algorithms; "Models"
+
+Taxonomy (Types)of ML
+Unsupervised
+Supervised
+Reinforcement
+
+
+Supervised:
+with labelled data(data that has been assigned a label or category or Meaning)
+
+Image classification
+Regression
+
+
+Unsupervised:
+Find Pattern without Predefined Outputs
+Data; Algorithm; output
+
+They Use Identity Matrix (Similarity or dissimilarity)
+
+Clustering; PCA( Remove irrelevant data i.e. do Data Compression); 
+
+1. Crop Disease Detection Using ML
+2. Weed Detection 
+3. Stock Price Prediction
+4. Car sales Price Prediction
+5. Sentiment Analysis Nepali Text
+
+
+Steps in Supervised Learning:
+Data Collection and Preparation
+	Kaggle/dataset
+	Uci
+	Google Dataset
+
+Choosing ML Model
+Train
+Evaluate
+Parameter Tuning 
+prediction testing
+
+
+# Regression  (Continuos)
+# Classification (Categorical)
+
+
+Training Model Issue:
+Overfitting & Underfitting  
+Bias & Variance Tradeoff
+
+
+# valuation Metrices
+
+
+
+ 
+
+
+
+
+
+
+
+
+

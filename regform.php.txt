@@ -1,0 +1,43 @@
+regform.php 
+interenal css
+
+
+<style>
+    body {
+        margin: 0;
+        height: 100vh;
+      background-image: url(regbg.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: round;
+    }
+    h1{
+        text-align: center;
+    }
+
+    #input{
+        display: flex;
+            border: none; /* Remove all borders */
+            border-bottom: 3px solid ; /* Add a colored bottom border */
+            border-radius: 0px; /* Remove rounded corners */
+            width: 80%;
+            justify-self: center;
+            border-color:  #08ddb2;
+    }
+
+    #checkbox{
+        border: 2px solid #21c2f3;
+            font-size: 30px !important;
+            border-radius: 0%;}
+
+            .form-check{
+  margin: auto;
+  font-size: 8px;
+  width: 78%;
+}
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 20px;
+}
+  </style>

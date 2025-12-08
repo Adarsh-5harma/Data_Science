@@ -1,0 +1,1 @@
+Title,Address,City,Price,Bedroom,Bathroom,Floors,Parking,Face,const_Year,Views,Area,Road,ROad_width,Road_type,Buid_Area,posted,Amenities
